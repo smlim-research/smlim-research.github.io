@@ -119,11 +119,11 @@ author:
                       Bachelor of Science : Korea University - School of Electrical Engineering
                       Master of Science : Korea University - Department of Electrical and Computer Engineering
   location         : "Seoul, South Korea"
-  email            : smlim789@korea.ac.kr
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "smlim789@korea.ac.kr"
+      # url: "smlim789@korea.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -135,7 +135,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/smlim-research"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
