@@ -117,6 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : | 
                       Bachelor of Science : Korea University - School of Electrical Engineering  
+                        
                       Master of Science : Korea University - Department of Electrical and Computer Engineering
   location         : "Seoul, South Korea"
   email            :
